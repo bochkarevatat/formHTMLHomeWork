@@ -24,6 +24,8 @@
     "import/extensions": [
       "error",
       "ignorePackages"
-    ]
+    ],
+    "linebreak-style":"off",
+    "no-console":"off"
   }
 }
